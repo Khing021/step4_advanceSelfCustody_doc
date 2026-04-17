@@ -143,7 +143,7 @@ gpg:          There is no indication that the signature belongs to the owner.
 > **[ ⚠️ สำคัญ!!! ]** ขณะที่สาธิตในห้องเรียน คุณสามารถทำตามได้โดยใช้บิตคอยน์จริง หากต้องการทำเช่นนั้น หรือมีความเป็นไปได้ที่จะทำเช่นนั้น ให้สร้าง wallet อย่างรัดกุมปลอดภัย เพราะเราจะใช้บิตคอยน์จริงในการทำธุรกรรม
 
 1.  กด `Get Started` เพื่อเริ่มต้นสร้างวอลเล็ตใหม่
-![หน้าต่างต้อนรับ](..\attachment\img\wasabi01-firstScreen.png)
+![หน้าต่างต้อนรับ](https://github.com/Khing021/step4_advanceSelfCustody_doc/blob/main/attachment/img/wasabi01-firstScreen.png)
 2.  เลือก `Create a new wallet`
 3.  ตั้งชื่อวอลเล็ตตามชอบ
 4.  เลือกรูปแบบของ Backup
@@ -155,9 +155,9 @@ gpg:          There is no indication that the signature belongs to the owner.
     *   หากไม่ต้องการใช้งาน Passphrase สามารถปล่อยให้ช่องกรอก Passphrase ว่างไว้แล้วกด `Continue` ได้เลย
     *   แต่หากต้องการใช้งาน Passphrase ทุกครั้งที่ใช้งานวอลเล็ต รวมไปถึงหากเราต้องการนำ **Recovery Words** ไปใช้กู้คืนวอลเล็ตในเครื่องอื่น เราจะต้องกรอก **Passphrase** นี้ให้ถูกต้องด้วยเช่นเดียวกัน หากกรอกไม่ถูกต้อง จะไม่สามารถเข้าถึงเงินได้อีกเลย
 8.  เมื่อสร้างวอลเล็ตเสร็จแล้ว Wasabi จะเข้าสู่หน้าจอการซิงค์ข้อมูล ให้เปิดคอมพิวเตอร์ทิ้งไว้ (หากจำเป็นต้องปิดซอฟต์แวร์กลางคันสามารถปิดซอฟต์แวร์แล้วเปิดมาซิงค์ต่อภายหลังได้)
-![วอลเล็ตกำลังซิงก์](..\attachment/img/wasabi02-syncing.png)
+![วอลเล็ตกำลังซิงก์](https://github.com/Khing021/step4_advanceSelfCustody_doc/blob/main/attachment/img/wasabi02-syncing.png)
 9.  เมื่อซิงค์ข้อมูลเสร็จแล้ววอลเล็ตของคุณจะพร้อมใช้งาน
-![วอลเล็ตพร้อมใช้งาน](..\attachment/img/wasabi03-walletReady.png)
+![วอลเล็ตพร้อมใช้งาน](https://github.com/Khing021/step4_advanceSelfCustody_doc/blob/main/attachment/img/wasabi03-walletReady.png)
 
 ---
 
