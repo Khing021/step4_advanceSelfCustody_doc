@@ -17,7 +17,7 @@
 > * Github: [nunchuk-io](https://github.com/nunchuk-io)
 > * X: [nunchuk_io](https://x.com/nunchuk_io)
 
-ปัจจุบันที่เขียนคู่มือนี้ (เมษายน 2026) Nunchuk Desktop เวอร์ชั่นล่าสุดคือ `2.4.0`
+ปัจจุบันที่เขียนคู่มือนี้ (เมษายน 2026) Nunchuk Desktop เวอร์ชั่นล่าสุดคือ `2.4.1`
 
 # 2. การดาวน์โหลดและตรวจสอบ
 
